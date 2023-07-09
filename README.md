@@ -40,32 +40,9 @@ These authentication methods provide users with flexibility and security options
 <br />
 These commands are frequently used in Git and GitHub workflows to manage version control, collaboration, and repository management.
 
-## Commonly Used GitHub Commands
-
-| Command         | Description                                   |
-| --------------- | --------------------------------------------- |
-| `git clone`     | Clone a repository from GitHub to your local machine. |
-| `git init`      | Initialize a new Git repository locally.       |
-| `git add`       | Stage changes or new files to be committed.    |
-| `git commit`    | Create a new commit with staged changes.       |
-| `git push`      | Push local commits to a remote repository on GitHub. |
-| `git pull`      | Fetch and merge changes from a remote repository. |
-| `git branch`    | List, create, or delete branches.              |
-| `git checkout`  | Switch branches or restore files from a specific commit or branch. |
-| `git merge`     | Merge changes from one branch into another.     |
-| `git status`    | Show the status of files in the repository.     |
-| `git log`       | Display the commit history.                    |
-| `git remote`    | Manage remote repositories.                    |
-| `git fetch`     | Retrieve changes from a remote repository without merging. |
-| `git reset`     | Undo changes or move the head to a different commit. |
-| `git stash`     | Temporarily save changes that are not ready to be committed. |
-
-These commands are frequently used in Git and GitHub workflows to manage version control, collaboration, and repository management.
-
 <br />
 
-## In a real project, the four GitHub commands that are commonly used are:
-
+## In a real project, the four GitHub commands that are commonly used are: 
 1. `git clone`: This command is essential when starting a new project or when collaborating with others. It allows you to clone an existing repository from GitHub to your local machine, providing you with a complete copy of the project's codebase to work with.
 
 2. `git add` and `git commit`: These commands go hand in hand and are used frequently to save your changes in the local repository. By staging changes with `git add` and then committing them with `git commit`, you create a new revision in the repository, making it easy to track and manage your progress.
